@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CVIP-url-shortener-frontend/static/css/main.d0bacb7f.css",
+    "main.js": "/CVIP-url-shortener-frontend/static/js/main.7349e86a.js",
+    "index.html": "/CVIP-url-shortener-frontend/index.html",
+    "main.d0bacb7f.css.map": "/CVIP-url-shortener-frontend/static/css/main.d0bacb7f.css.map",
+    "main.7349e86a.js.map": "/CVIP-url-shortener-frontend/static/js/main.7349e86a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0bacb7f.css",
+    "static/js/main.7349e86a.js"
+  ]
+}
